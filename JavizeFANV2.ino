@@ -10,9 +10,9 @@
 #define BT5 D5  
 
 
- char auth[] = "XBzHPWNzCK_7bRzeVCQcleCkrb8we3TS";
- char ssid[] = "GGundoxx";
- char pass[] = "0634151945";
+ char auth[] = "Blink_AUTH";
+ char ssid[] = "Wifi_SSID";
+ char pass[] = "Wifi_PW";
  
 WidgetLCD lcd1(V0);
 WidgetLED BT1Blynk(V10);
